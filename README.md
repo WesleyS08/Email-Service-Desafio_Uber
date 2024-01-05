@@ -27,7 +27,7 @@ Este repositório contém um serviço de e-mail que oferece uma abstração efic
 3. **Envio de E-mails:**
    - Utilize a API do serviço para enviar e-mails, com parâmetros como destinatário, assunto e corpo do e-mail.
 
-## Configuração do Arquivo `config.json`
+## Configuração do Arquivo `config`
 ```json
 {
 
